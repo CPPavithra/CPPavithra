@@ -26,12 +26,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CPPavithra&icon=2&color=0)](https://visitcount.itsvg.in)
 
------
-## Advent of Code 2024 Stats:
- 	![]https:\/\/img\.shields\.io\/badge\/day%20📅-)[0-9]+(?=-blue)
-  ![]https:\/\/img\.shields\.io\/badge\/stars%20⭐-)[0-9]+(?=-yellow)
-  ![]https:\/\/img\.shields\.io\/badge\/days%20completed-)[0-9]+(?=-red)
-  
+-----Breadcrumbs
+
+    CPPavithra
+
+/
+in
+main
+
 <div align="center"> 
 
 
