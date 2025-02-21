@@ -28,13 +28,5 @@
 
 -----
 
-<div align="center"> 
-
-
-<h2 align="center">Leetcode Info 🖥️ <h2>  
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Pavithra_CP?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
 <br/><br/>
