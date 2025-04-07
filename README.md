@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there+👋,+I'm+Pavithra; )](https://git.io/typing-svg)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikhilcp05)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there+👋,+I'm+Pavithra; )](https://git.io/typing-svg)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pavithra-cp)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pavithra-cp)
 **Enthusiastic and results-oriented Programmer with a passion for building innovative solutions.**
 
 **About Me**
